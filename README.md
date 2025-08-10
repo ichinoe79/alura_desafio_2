@@ -25,35 +25,4 @@ Variables como tiempo de contrato, gasto total y uso de facturación electrónic
 
 Se proponen estrategias de retención basadas en estos hallazgos.
 
-Uso
-Para ejecutar el análisis:
 
-bash
-Copiar
-Editar
-# Clonar el repositorio
-git clone https://github.com/tu_usuario/tu_repositorio.git
-
-# Entrar en el directorio
-cd tu_repositorio
-
-# Instalar dependencias (ejemplo)
-pip install -r requirements.txt
-
-# Ejecutar el script principal (por ejemplo)
-python telecomx_churn_analysis.py
-Requisitos
-Python 3.x
-
-pandas
-
-scikit-learn
-
-matplotlib
-
-seaborn
-
-requests
-
-Autor
-Ingrid Marin 
